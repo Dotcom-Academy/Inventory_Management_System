@@ -9,7 +9,7 @@ Create Inventory Management System [Upgrade]
 
 		3. delete particular product
 
-		4. display all the product based on rating [Descending order]
+		4. display all the product based on rating [Descending order] before purchase
   
 			  ID  Name      Brand      Price      Weight      Quantity     Rating
 			1110  Salt      Tata       25.0       1.0 kg      89		   5.0
