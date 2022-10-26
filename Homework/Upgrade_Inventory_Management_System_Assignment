@@ -1,1 +1,37 @@
+Create Inventory Management System [Upgrade]
+	
+	Features:
+		1. add new product to your json database [at-least 30 different product ] with  
+                  "Product ID" , "Product Name" , "Product Brand" , "Product Price" , "Product Weight" ,
+                  "Product Quantity" , "Product Rating" [make sure product id always unique]
 
+		2. Make option to update existing product quantity, price or rating.[update can be increment or decrement]
+
+		3. delete particular product
+
+		4. display all the product based on rating [Descending order]
+  
+			  ID  Name      Brand      Price      Weight      Quantity     Rating
+			1110  Salt      Tata       25.0       1.0 kg      89		   5.0
+			1120  Butter    Amul       40.0       50.0 gm     45		   4.8
+			1130  Noodles   Nestle     12.0       150.0 gm    80		   3.5
+			 ''     ''        ''        ''          ''        ''                ''
+
+		5. customer name , product id and quantity take as input while purchasing product
+
+		6. Make sure your program shouldn't face error for invalid inputs
+
+		7. Generate proper bill filled with 
+			
+			Transaction ID
+			date and time of purchasing
+			Product Id
+
+			Customer Name
+			Price of Each Product
+			name of product with quantity
+
+		8. create a sales.json database, store every transaction details with
+                   Increasing order key value in json format & keep update after each successful purchase 
+
+  
